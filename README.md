@@ -18,7 +18,7 @@ class DataAnalyst:
         self.name = "Kiran Kumar Nagaram"
         self.education = "B.Tech - AI & Data Science (CGPA: 8.6)"
         self.role = "Data Analyst | Machine Learning"
-        self.current_location = "Bangalore, Karnataka, India"
+        self.current_location = "Bommonahalli, Bangalore, Karnataka, India"
         self.native_place = "Konduru Village, Tada Mandal, Tirupati District, Andhra Pradesh, India"
         self.skills = ["Python", "SQL", "Power BI", "Excel", "Scikit-learn"]
         self.currently_learning = ["Power BI", "Advanced Excel"]
