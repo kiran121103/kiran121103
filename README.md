@@ -152,10 +152,6 @@ Analyzed a 21,613-record housing dataset with 21 features, benchmarking four reg
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiran121103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/2980b9/kiran121103" alt="Kiran's GitHub chart" width="90%" />
-
 </div>
 
 ## 🏆 Trophies
