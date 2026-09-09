@@ -10,15 +10,6 @@
 
 </div>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaram-kiran-kumar-4810401b9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nagaramkirankumar1211@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nagaramkirankumar1776)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiran121103)
-
-<br/>
-
 ## 🎯 About Me
 
 ```python
@@ -28,7 +19,7 @@ class DataAnalyst:
         self.education = "B.Tech - AI & Data Science (CGPA: 8.6)"
         self.role = "Data Analyst | Machine Learning"
         self.current_location = "Bangalore, Karnataka, India"
-        self.native_place = "Tirupati District, Andhra Pradesh, India"
+        self.native_place = "Konduru Village, Tada Mandal, Tirupati District, Andhra Pradesh, India"
         self.skills = ["Python", "SQL", "Power BI", "Excel", "Scikit-learn"]
         self.currently_learning = ["Power BI", "Advanced Excel"]
 
@@ -212,7 +203,6 @@ Analyzed a 21,613-record housing dataset with 21 features, benchmarking four reg
 | Telugu | Full Professional |
 | English | Professional Working |
 | Tamil | Limited Working |
-| Hindi | Limited Working |
 
 <br/>
 
