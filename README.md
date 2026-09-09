@@ -147,14 +147,14 @@ Analyzed a 21,613-record housing dataset with 21 features, benchmarking four reg
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiran121103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kiran121103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran121103&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran121103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages (Most to Least Used)"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiran121103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran121103&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kiran121103&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph"/>
 
 </div>
 
@@ -164,7 +164,7 @@ Analyzed a 21,613-record housing dataset with 21 features, benchmarking four reg
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kiran121103&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy-nu.vercel.app/?username=kiran121103&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
